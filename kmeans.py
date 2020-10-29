@@ -2,6 +2,8 @@ import math
 import csv
 import random
 
+# Esto es lo que voy a implementar hoy
+
 """
 == distancia euclidiana ==
 Entrada:
